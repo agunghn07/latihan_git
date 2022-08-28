@@ -1,2 +1,2 @@
 # latihan_git
-Update readme
+Update readme (Modified)
